@@ -1,0 +1,2 @@
+追加has-error需要在引号前就加上空格，这差点卡死我
+dive.className+=" has-error";
